@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="hadoop2.6">
+    <CLASSES>
+      <root url="file://D:/123/hadoop-2.4.1/hadoop-2.4.1/share/hadoop/common" />
+      <root url="file://D:/123/hadoop-2.4.1/hadoop-2.4.1/share/hadoop/hdfs" />
+      <root url="file://D:/123/hadoop-2.4.1/hadoop-2.4.1/share/hadoop/mapreduce" />
+      <root url="file://D:/123/hadoop-2.4.1/hadoop-2.4.1/share/hadoop/yarn" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/123/hadoop-2.4.1/hadoop-2.4.1/share/hadoop/common" recursive="false" />
+    <jarDirectory url="file://D:/123/hadoop-2.4.1/hadoop-2.4.1/share/hadoop/hdfs" recursive="false" />
+    <jarDirectory url="file://D:/123/hadoop-2.4.1/hadoop-2.4.1/share/hadoop/mapreduce" recursive="false" />
+    <jarDirectory url="file://D:/123/hadoop-2.4.1/hadoop-2.4.1/share/hadoop/yarn" recursive="false" />
+  </library>
+</component>
